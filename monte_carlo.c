@@ -57,6 +57,3 @@ float mc_pi(int n){
 	 float pi=4*(float)circle_ct/(total_ct);
 	 return (pi);
 	}
-
-
-
